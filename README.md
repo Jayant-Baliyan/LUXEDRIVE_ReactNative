@@ -26,7 +26,7 @@ In the output, you'll find options to open the app in a
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
 ## APK for this project(LUXEDRIVE)
-[To download apk visit](https://expo.dev/accounts/jayantbaliyan/projects/LUXEDRIVE/builds/c3ff490e-e47d-4b8c-80f9-c00f7c51fe93)
+[To download apk click here](https://expo.dev/accounts/jayantbaliyan/projects/LUXEDRIVE/builds/c3ff490e-e47d-4b8c-80f9-c00f7c51fe93)
 or scan the QR Code
 <img width="417" height="414" alt="image" src="https://github.com/user-attachments/assets/4c2db52f-9097-4d9f-94ff-ebcae24548f8" />
 
