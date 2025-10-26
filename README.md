@@ -48,3 +48,9 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## APK 
+[To download apk visit](https://expo.dev/accounts/jayantbaliyan/projects/LUXEDRIVE/builds/c3ff490e-e47d-4b8c-80f9-c00f7c51fe93)
+or scan the QR Code
+<img width="417" height="414" alt="image" src="https://github.com/user-attachments/assets/4c2db52f-9097-4d9f-94ff-ebcae24548f8" />
+
